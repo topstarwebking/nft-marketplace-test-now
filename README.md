@@ -1,360 +1,70 @@
-Contribution: 2021-04-05 20:00
+# Getting Started with Create React App
 
-Contribution: 2021-04-05 20:01
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Contribution: 2021-04-05 20:02
+## Available Scripts
 
-Contribution: 2021-04-05 20:03
+In the project directory, you can run:
 
-Contribution: 2021-04-05 20:04
+### `yarn start`
 
-Contribution: 2021-04-05 20:05
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Contribution: 2021-04-05 20:06
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Contribution: 2021-04-05 20:07
+### `yarn test`
 
-Contribution: 2021-04-05 20:08
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contribution: 2021-04-05 20:09
+### `yarn build`
 
-Contribution: 2021-04-05 20:10
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Contribution: 2021-04-05 20:11
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Contribution: 2021-04-05 20:12
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Contribution: 2021-04-05 20:13
+### `yarn eject`
 
-Contribution: 2021-04-08 20:00
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Contribution: 2021-04-08 20:01
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Contribution: 2021-04-08 20:02
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Contribution: 2021-04-08 20:03
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Contribution: 2021-04-08 20:04
+## Learn More
 
-Contribution: 2021-04-08 20:05
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Contribution: 2021-04-08 20:06
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Contribution: 2021-04-08 20:07
+### Code Splitting
 
-Contribution: 2021-04-10 20:00
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Contribution: 2021-04-10 20:01
+### Analyzing the Bundle Size
 
-Contribution: 2021-04-10 20:02
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Contribution: 2021-04-10 20:03
+### Making a Progressive Web App
 
-Contribution: 2021-04-10 20:04
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Contribution: 2021-04-10 20:05
+### Advanced Configuration
 
-Contribution: 2021-04-10 20:06
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-Contribution: 2021-04-10 20:07
+### Deployment
 
-Contribution: 2021-04-10 20:08
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-Contribution: 2021-04-11 20:00
+### `yarn build` fails to minify
 
-Contribution: 2021-04-11 20:01
-
-Contribution: 2021-04-11 20:02
-
-Contribution: 2021-04-11 20:03
-
-Contribution: 2021-04-11 20:04
-
-Contribution: 2021-04-11 20:05
-
-Contribution: 2021-04-11 20:06
-
-Contribution: 2021-04-11 20:07
-
-Contribution: 2021-04-11 20:08
-
-Contribution: 2021-04-11 20:09
-
-Contribution: 2021-04-11 20:10
-
-Contribution: 2021-04-11 20:11
-
-Contribution: 2021-04-11 20:12
-
-Contribution: 2021-04-11 20:13
-
-Contribution: 2021-04-11 20:14
-
-Contribution: 2021-04-11 20:15
-
-Contribution: 2021-04-11 20:16
-
-Contribution: 2021-04-11 20:17
-
-Contribution: 2021-04-11 20:18
-
-Contribution: 2021-04-11 20:19
-
-Contribution: 2021-04-12 20:00
-
-Contribution: 2021-04-12 20:01
-
-Contribution: 2021-04-12 20:02
-
-Contribution: 2021-04-12 20:03
-
-Contribution: 2021-04-12 20:04
-
-Contribution: 2021-04-12 20:05
-
-Contribution: 2021-04-12 20:06
-
-Contribution: 2021-04-12 20:07
-
-Contribution: 2021-04-12 20:08
-
-Contribution: 2021-04-12 20:09
-
-Contribution: 2021-04-12 20:10
-
-Contribution: 2021-04-12 20:11
-
-Contribution: 2021-04-15 20:00
-
-Contribution: 2021-04-15 20:01
-
-Contribution: 2021-04-20 20:00
-
-Contribution: 2021-04-20 20:01
-
-Contribution: 2021-04-20 20:02
-
-Contribution: 2021-04-20 20:03
-
-Contribution: 2021-04-20 20:04
-
-Contribution: 2021-04-20 20:05
-
-Contribution: 2021-04-20 20:06
-
-Contribution: 2021-04-20 20:07
-
-Contribution: 2021-04-20 20:08
-
-Contribution: 2021-04-20 20:09
-
-Contribution: 2021-04-20 20:10
-
-Contribution: 2021-04-20 20:11
-
-Contribution: 2021-04-20 20:12
-
-Contribution: 2021-04-20 20:13
-
-Contribution: 2021-04-20 20:14
-
-Contribution: 2021-04-20 20:15
-
-Contribution: 2021-04-20 20:16
-
-Contribution: 2021-04-20 20:17
-
-Contribution: 2021-04-21 20:00
-
-Contribution: 2021-04-21 20:01
-
-Contribution: 2021-04-21 20:02
-
-Contribution: 2021-04-21 20:03
-
-Contribution: 2021-04-21 20:04
-
-Contribution: 2021-04-21 20:05
-
-Contribution: 2021-04-21 20:06
-
-Contribution: 2021-04-21 20:07
-
-Contribution: 2021-04-21 20:08
-
-Contribution: 2021-04-21 20:09
-
-Contribution: 2021-04-21 20:10
-
-Contribution: 2021-04-21 20:11
-
-Contribution: 2021-04-22 20:00
-
-Contribution: 2021-04-22 20:01
-
-Contribution: 2021-04-22 20:02
-
-Contribution: 2021-04-22 20:03
-
-Contribution: 2021-04-22 20:04
-
-Contribution: 2021-04-22 20:05
-
-Contribution: 2021-04-22 20:06
-
-Contribution: 2021-04-22 20:07
-
-Contribution: 2021-04-22 20:08
-
-Contribution: 2021-04-24 20:00
-
-Contribution: 2021-04-24 20:01
-
-Contribution: 2021-04-24 20:02
-
-Contribution: 2021-04-24 20:03
-
-Contribution: 2021-04-24 20:04
-
-Contribution: 2021-04-24 20:05
-
-Contribution: 2021-04-24 20:06
-
-Contribution: 2021-04-24 20:07
-
-Contribution: 2021-04-24 20:08
-
-Contribution: 2021-04-24 20:09
-
-Contribution: 2021-04-26 20:00
-
-Contribution: 2021-04-26 20:01
-
-Contribution: 2021-04-26 20:02
-
-Contribution: 2021-04-26 20:03
-
-Contribution: 2021-04-26 20:04
-
-Contribution: 2021-04-26 20:05
-
-Contribution: 2021-04-26 20:06
-
-Contribution: 2021-04-26 20:07
-
-Contribution: 2021-04-26 20:08
-
-Contribution: 2021-04-26 20:09
-
-Contribution: 2021-04-26 20:10
-
-Contribution: 2021-04-26 20:11
-
-Contribution: 2021-04-26 20:12
-
-Contribution: 2021-04-26 20:13
-
-Contribution: 2021-04-28 20:00
-
-Contribution: 2021-04-28 20:01
-
-Contribution: 2021-04-28 20:02
-
-Contribution: 2021-04-28 20:03
-
-Contribution: 2021-04-28 20:04
-
-Contribution: 2021-04-28 20:05
-
-Contribution: 2021-04-28 20:06
-
-Contribution: 2021-04-28 20:07
-
-Contribution: 2021-04-28 20:08
-
-Contribution: 2021-04-28 20:09
-
-Contribution: 2021-04-28 20:10
-
-Contribution: 2021-04-28 20:11
-
-Contribution: 2021-04-28 20:12
-
-Contribution: 2021-04-28 20:13
-
-Contribution: 2021-04-28 20:14
-
-Contribution: 2021-04-28 20:15
-
-Contribution: 2021-04-28 20:16
-
-Contribution: 2021-04-28 20:17
-
-Contribution: 2021-04-28 20:18
-
-Contribution: 2021-04-30 20:00
-
-Contribution: 2021-04-30 20:01
-
-Contribution: 2021-04-30 20:02
-
-Contribution: 2021-04-30 20:03
-
-Contribution: 2021-04-30 20:04
-
-Contribution: 2021-04-30 20:05
-
-Contribution: 2021-04-30 20:06
-
-Contribution: 2021-04-30 20:07
-
-Contribution: 2021-04-30 20:08
-
-Contribution: 2021-04-30 20:09
-
-Contribution: 2021-04-30 20:10
-
-Contribution: 2021-04-30 20:11
-
-Contribution: 2021-04-30 20:12
-
-Contribution: 2021-04-30 20:13
-
-Contribution: 2021-04-30 20:14
-
-Contribution: 2021-04-30 20:15
-
-Contribution: 2021-05-01 20:00
-
-Contribution: 2021-05-01 20:01
-
-Contribution: 2021-05-01 20:02
-
-Contribution: 2021-05-01 20:03
-
-Contribution: 2021-05-01 20:04
-
-Contribution: 2021-05-01 20:05
-
-Contribution: 2021-05-01 20:06
-
-Contribution: 2021-05-01 20:07
-
-Contribution: 2021-05-01 20:08
-
-Contribution: 2021-05-01 20:09
-
-Contribution: 2021-05-01 20:10
-
-Contribution: 2021-05-01 20:11
-
-Contribution: 2021-05-01 20:12
-
-Contribution: 2021-05-01 20:13
-
-Contribution: 2021-05-01 20:14
-
-Contribution: 2021-05-01 20:15
-
-Contribution: 2021-05-01 20:16
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
